@@ -1,4 +1,40 @@
-h1 {
-  color: darkblue;
-  text-align: center;
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFE3DC;
+    color: #D30C7B;
+}
+
+.navbar {
+  background: #DBB4AD;
+  padding: 30px;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: center;
+}
+
+.nav-list li {
+  margin: 0 15px;
+}
+.nav-list a {
+  text-decoration: none;
+  color: #D30C7B;
+  font-weight: bold;
+}
+.nav-list a:hover {
+  color: #FF6F61;
+}
+.header {
+    text-align: center;
+    padding: 40px;
 }
