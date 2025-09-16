@@ -1,12 +1,12 @@
 # Lvl2Projects
-*A simple website created to practice and projects.*
+*A simple website created to practice projects.*
 
 ## Description
 **This is a simple website to practice on GitHub, HTML, CSS, and Projects.**
 
 ## Pages
 - `index.html`: Home page with links to other pages
-- `projectspage.html`: About the page
+- `projectspage.html`: About the projects
 - `contact.html`: Contact information
 
 ## Project Features
