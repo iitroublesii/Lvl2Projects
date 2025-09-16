@@ -1,4 +1,4 @@
-# My-First-Repo
+# Lvl2Projects
 *A simple website created to practice and projects.*
 
 ## Description
